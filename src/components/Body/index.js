@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./body.css";
+import "./index.css";
 import About from "./about/index";
 import Projects from "./projects/index";
 import Skills from "./skills/index";
